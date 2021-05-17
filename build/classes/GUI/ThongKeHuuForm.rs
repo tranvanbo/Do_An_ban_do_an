@@ -1,0 +1,9 @@
+GUI.ThongKeNhanVien
+GUI.ThongKeNhaCungCap$1
+GUI.ThongKeKhachHang$1
+GUI.ThongKeHuuForm
+GUI.ThongKeMonAn
+GUI.ThongKeNhaCungCap
+GUI.ThongKeNhanVien$1
+GUI.ThongKeKhachHang
+GUI.ThongKeMonAn$1
